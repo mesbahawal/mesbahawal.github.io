@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-The [editor on GitHub](https://github.com/mesbahawal/mesbahawal.github.io/edit/master/README.md) can be used to maintain and preview the content for the website in Markdown files.
+The [editor on GitHub](https://github.com/mesbahawal/mesbahawal.github.io/edit/master/README.md) can be used to maintain and preview the content in Markdown files.
 
 On commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in this site, from the content here in Markdown files.
 
