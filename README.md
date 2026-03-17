@@ -9,6 +9,10 @@ Hello, my name is Mesbah. I am an experienced IT professional, skilled in softwa
 Layout and styles are from the Jekyll theme: [Jekyll](https://jekyllrb.com/). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 For Markdown details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Icons
+
+Icons reference: [W3Schools](https://www.w3schools.com/icons/default.asp)
+
 ### Support or Contact
 
 Having trouble with Pages? Check out [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact).
